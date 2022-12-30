@@ -59,7 +59,7 @@ nav a:hover{
 {
     display: flex;
     justify-content: center;
-    background-image: url("../imagens/img1.jpg");
+    background-image: url("./imagens/img1.jpg");
     background-position: center;
     background-size: cover;
     height: 670px;
